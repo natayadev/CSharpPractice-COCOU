@@ -1,0 +1,11 @@
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+D:\usuarios\alumno\escritorio\CSharp\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
