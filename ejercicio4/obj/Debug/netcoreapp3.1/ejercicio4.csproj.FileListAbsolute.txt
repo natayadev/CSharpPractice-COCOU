@@ -1,0 +1,3 @@
+D:\usuarios\alumno\escritorio\CSharp\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\CSharp\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\CSharp\ejercicio4\obj\Debug\netcoreapp3.1\ejercicio4.AssemblyInfo.cs

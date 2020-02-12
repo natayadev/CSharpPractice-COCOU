@@ -15,13 +15,16 @@ namespace ejercicio1
 			DateTime Fecha1 = DateTime.Parse(Console.ReadLine());
 			Console.WriteLine("Inserte fecha final en formato dd-mm-aa: "); 
 			DateTime Fecha2 = DateTime.Parse(Console.ReadLine());
-			
-			Console.WriteLine(Fecha1.ToString("D-M-Y"));
-			Console.WriteLine(Fecha2.ToString("D-M-Y"));
+			Console.WriteLine(" ");
 
 			//Formato de fechas ingresadas
-            Console.WriteLine("La fecha de inicio ingresada es: {0}", Fecha1);
-            Console.WriteLine("La fecha final ingresada es: {0}", Fecha2);
+            Console.WriteLine("La fecha de inicio ingresada es: ");
+            Console.WriteLine(Fecha1.ToString("dddd dd MMMM, yyyy"));
+            Console.WriteLine(" ");
+
+            Console.WriteLine("La fecha final ingresada es: ");
+			Console.WriteLine(Fecha2.ToString("dddd dd MMMM, yyyy"));
+            Console.WriteLine(" ");
 
             //Calcula la diferencia entre fechas
 			TimeSpan dif = Fecha2 - Fecha1;

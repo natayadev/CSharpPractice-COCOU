@@ -36,7 +36,7 @@ namespace ejercicio3
                     Lista2.Add(j);
                 }
             
-            //Imprime el listado final
+            //Imprime el listado final o resultado
             var ListaFinal = Lista1.Except(Lista2);
             Console.WriteLine("Los multiplos de 3, pero no de 5 son: ");
             Console.WriteLine(ListaFinal.Take(m));
